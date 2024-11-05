@@ -1,0 +1,2 @@
+# LocGlossaryManager
+LocGlossaryManager本地化术语管理助手
