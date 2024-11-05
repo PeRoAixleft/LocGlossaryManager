@@ -1,0 +1,642 @@
+{
+  "KARO事件": {
+    "term": "KARO事件",
+    "translation": "The KARO Incident",
+    "category": "",
+    "context": "通过虚拟世界KARO将5亿人的精神意识链接在一起，在现实世界中出现了“天使”降临的现象。;",
+    "notes": "保留KARO这个专有名词很重要,它是事件的核心标识。选择\"Incident\"而不是\"Event\"是考虑到事件的重大性",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "极雪": {
+    "term": "极雪",
+    "translation": "Perpetual Snow",
+    "category": "",
+    "context": "世界范围的灾害，外观和雪无异，但几乎不会消融，只会不断堆积，且对人体具有侵蚀性。本质为灵子碎屑。;",
+    "notes": "想过用\"Extreme\"和\"Eternal\"后,但是最终选择了\"Perpetual\"既能准确传达永续性,又有点科幻感。保留\"Snow\"是为了直观表达灾害的基本性质,同时也让这个重要术语更容易被玩家接受和记忆。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "雪晄": {
+    "term": "雪晄",
+    "translation": "Snow Aureole",
+    "category": "",
+    "context": "极雪聚集处出现的多种颜色的闪烁光环，本质是一种辐射，被照射的人会逐渐丧失记忆、意识，在昏睡中死亡。;",
+    "notes": "\"Aureole\"比常见的\"Radiance\"或\"Halo\"更专业且精准,它专指环绕物体的光晕现象。保留\"Snow\"前缀是出于术语体系的连贯性考虑。这个词既暗示了现象的视觉特征,又很好地契合了致命辐射的设定。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "雪蚀": {
+    "term": "雪蚀",
+    "translation": "Snow Corrosion",
+    "category": "",
+    "context": "灵子碎屑对实数物质的侵蚀，造成的崩解现象。;",
+    "notes": "也可以考虑\"Erosion\",选择\"Corrosion\"更能体现出这种侵蚀的剧烈性和破坏性。保持\"Snow-\"前缀的一致性很有必要,这样可以让玩家直观理解它跟其他雪相关术语的关联。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "昏睡病": {
+    "term": "昏睡病",
+    "translation": "Somnolence Syndrome",
+    "category": "",
+    "context": "由雪晄辐射引发的疾病，人类会在昏睡中死亡。;",
+    "notes": "选用医学术语\"Somnolence\"来替代普通的\"Sleepiness\",可以凸显这种病症的专业性和严重性。添加\"Syndrome\"让这个名称符合疾病命名规范,同时也让它在游戏的未来背景中显得更加可信。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "忍冬计划": {
+    "term": "忍冬计划",
+    "translation": "Project Wintergreen",
+    "category": "",
+    "context": "人类以灵子数据生命体的形式在伊瑟世界生活，度过极雪灾难的避难计划。;",
+    "notes": "\"Wintergreen\"既保留了植物意象,又暗示了\"在严冬中生存\"的主题。比起直译\"honeysuckle\",这个词更加简洁有力,而且跟游戏的整体氛围很搭。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "曙光计划": {
+    "term": "曙光计划",
+    "translation": "Project Dawn",
+    "category": "",
+    "context": "作为忍冬计划的补充，进一步探索人类未来方向的计划。;",
+    "notes": "作为\"Project Wintergreen\"的后续计划,\"Dawn\"这个词简洁有力,完美体现了希望和新生的主题。考虑过\"Daybreak\"和\"Aurora\",但都不如\"Dawn\"干净。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "伊瑟": {
+    "term": "伊瑟",
+    "translation": "Ether",
+    "category": "",
+    "context": "靠灵子技术建设的虚拟世界，以现实世界为蓝本，是现实世界的镜像投影，一切都由灵子数据构成。;",
+    "notes": "\"Ether\"不仅音近\"伊瑟\",更重要的是它在科幻作品中经常用来指代虚拟空间。这个词本身就带有\"空中/天界\"的含义,非常符合游戏的世界观设定。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "莱伯茨生命事件": {
+    "term": "莱伯茨生命事件",
+    "translation": "The Leibniz Life Incident",
+    "category": "",
+    "context": "莱伯茨基金会利用异格者进行源病毒实验的真相被揭露，莱伯茨生命被E.O.S.查封。;",
+    "notes": "保持了机构名\"Leibniz Life\"的一致性,用\"Incident\"强调这是一个重大事件。这个译名让人一眼就能看出这是跟那家著名研究所有关的丑闻。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "七日骚乱": {
+    "term": "七日骚乱",
+    "translation": "The Seven-Day Chaos",
+    "category": "",
+    "context": "E.O.S.对莱伯茨事件的处理引起了异格者的不满，RCS推波助澜，西弗里爆发了连续七日的大骚乱。;",
+    "notes": "\"Chaos\"比\"Riot\"或\"Unrest\"更能体现事态的严重性和失控程度。用连字符连接\"Seven-Day\"让这个名字更加规范和正式。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "炽天使计划": {
+    "term": "炽天使计划",
+    "translation": "Project Seraph",
+    "category": "",
+    "context": "RCS为了毁灭伊瑟，让人类回归现实世界而制定的计划。;",
+    "notes": "选择\"Seraph\"而不是普通的\"Angel\",因为\"Seraph\"特指最高等级的天使,更能体现这个计划的野心和规模。而且这个词本身就带着一种神圣而危险的气质。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "大爆发": {
+    "term": "大爆发",
+    "translation": "The Great Outbreak",
+    "category": "",
+    "context": "RCS散播源病毒，感染灵链，导致源病毒在坎特蔓延。引起了源病毒的大爆发。;",
+    "notes": "加入\"Great\"来强调这次爆发的规模和影响力。\"Outbreak\"一词常用于形容病毒传播,很符合源病毒扩散的设定。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "米迦勒觉醒": {
+    "term": "米迦勒觉醒",
+    "translation": "Michael's Awakening",
+    "category": "",
+    "context": "阿西莉娅的人格被米迦勒人格抑制后，米迦勒复苏，造成了坎特的进一步混乱。;",
+    "notes": "保留了\"Michael\"这个天使名字的英文标准写法。\"Awakening\"比\"Awakened\"更有史诗感,暗示这是一个重大转折点。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "大停机事件": {
+    "term": "大停机事件",
+    "translation": "The Great Shutdown",
+    "category": "",
+    "context": "特殊原因导致伊瑟世界服务器重启的一次大型灾难，造成了大量人格数据丢失，许多异格者就此消失。;",
+    "notes": "用\"Shutdown\"而不是\"Outage\",因为这更强调是一次主动或被迫的完全关闭,而不是简单的断电。添加\"Great\"来强调其灾难性规模。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "篡夺者计划": {
+    "term": "篡夺者计划",
+    "translation": "Project Usurper",
+    "category": "",
+    "context": "RCS（组织名）借助重建的莱伯茨生命，利用原型体提取的原质，制造能够篡夺大书库管理者权限的容器。;",
+    "notes": "\"Usurper\"是个很棒的词,直接点出了计划的核心目的——篡夺权力。这个词带有强烈的敌对性和威胁感,很符合计划的性质。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "异格者": {
+    "term": "异格者",
+    "translation": "Aberrant",
+    "category": "",
+    "context": "虚拟世界伊瑟的灵子生命，外形与人类近似但不同，和人类一样有独立思想、情感、社会属性。;",
+    "notes": "\"Aberrant\"一词完美体现了\"异于常规\"的含义,还暗示了某种特殊性。这个词既不会让人觉得太过负面,又保留了与常人不同的特质。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "智壳": {
+    "term": "智壳",
+    "translation": "Psyche Shell",
+    "category": "",
+    "context": "诞生于伊瑟的特殊生命体，与异格者伴生，是一种不完整的灵子生命体，具有特殊的能力，能与异格者链接，协助战斗。;",
+    "notes": "选择\"Psyche\"而不是简单的\"Intelligence\",因为它暗示了更深层的精神和意识层面。\"Shell\"则很好地对应了\"壳\"的概念,整体听起来很有科幻感。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "人工型智壳": {
+    "term": "人工型智壳",
+    "translation": "Synthetic Psyche Shell",
+    "category": "",
+    "context": "人类在合成异格者的过程中，诞生出来的智壳。;",
+    "notes": "加入\"Synthetic\"来区分自然产生的智壳,这个词在科幻作品中经常用来形容人工制造的生命体,很合适。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "源生型智壳": {
+    "term": "源生型智壳",
+    "translation": "Native Psyche Shell",
+    "category": "",
+    "context": "从伊瑟自行诞生的智壳。;",
+    "notes": "用\"Native\"来对应\"源生\",强调其自然产生的特性。这样的对比更容易让玩家理解两种智壳的区别。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "原质": {
+    "term": "原质",
+    "translation": "Origin Essence",
+    "category": "",
+    "context": "异格者的能力与生命的来源与基础，也是异格者的DNA。;",
+    "notes": "选用\"Essence\"而不是简单的\"Element\",因为它暗示了更根本的存在。\"Origin\"强调了它是一切能力的源头,整体很好地体现了这个概念的核心地位。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "原质能力": {
+    "term": "原质能力",
+    "translation": "Origin Power",
+    "category": "",
+    "context": "异格者的原质能力，可以认为是异格者的天赋。;",
+    "notes": "保持了与\"Origin Essence\"的一致性,用\"Power\"代替\"Ability\"更显得强大和本质。简单直接,便于在游戏中反复使用。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "原质反应": {
+    "term": "原质反应",
+    "translation": "Origin Resonance",
+    "category": "",
+    "context": "原质能够在力场中调动能量所产生的反应。;",
+    "notes": "\"Resonance\"比直译\"Reaction\"更有意思,它暗示了能量的共鸣和互动,更符合游戏中的神秘设定。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "原质相性": {
+    "term": "原质相性",
+    "translation": "Origin Affinity",
+    "category": "",
+    "context": "原质先天具备一定的倾向性，这种倾向性，会决定原质能力的属性，导致原质能力不同。;",
+    "notes": "\"Affinity\"很好地表达了相性的概念,在游戏中常用来表示元素或能力的契合度,玩家也比较熟悉这个用法。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "莱伯茨生命": {
+    "term": "莱伯茨生命",
+    "translation": "Leibniz Life",
+    "category": "",
+    "context": "虚拟政府E.O.S.秘密支持下成立的实验室，用于研究源病毒和“黑色症候群”特效抑制剂。;",
+    "notes": "保留\"Leibniz\"这个德式姓氏的标准拼写。作为一个研究机构,名字简单工整更显专业。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "莱伯茨基金会": {
+    "term": "莱伯茨基金会",
+    "translation": "Leibniz Foundation",
+    "category": "",
+    "context": "表面上是莱伯茨生命设立的慈善基金会，实际上在为莱伯茨的实验筛选合适实验的异格者。;",
+    "notes": "继续保持机构名称的一致性,这样玩家容易理解两者的关联。\"Foundation\"是标准的基金会英文表达。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "十三区高校": {
+    "term": "十三区高校",
+    "translation": "District 13 Academy",
+    "category": "",
+    "context": "E.O.S.支持组建的教育机构，旨在实行对异格者的教育，同时为异格者们的能力开发做必要的实验研究。;",
+    "notes": "\"District 13\"保留了数字的简洁性,\"Academy\"比\"School\"更正式,暗示高校属性",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "海德拉银行": {
+    "term": "海德拉银行",
+    "translation": "Hydra Bank",
+    "category": "",
+    "context": "伊瑟世界规模最大的银行，除去官方业务，其也为愿意支付“生存点数”的人提供灰色地带的服务。;",
+    "notes": "保留\"Hydra\"这个神话生物的标准英文名",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "防卫警备队": {
+    "term": "防卫警备队",
+    "translation": "Defense Security Force",
+    "category": "",
+    "context": "于现实世界守卫伊瑟地面服务器的人类军人。;",
+    "notes": "\"Force\"比\"Team\"更正式，符合军事组织的命名风格。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "安全防务署": {
+    "term": "安全防务署",
+    "translation": "Security Defense Bureau",
+    "category": "",
+    "context": "E.O.S.成立的对伊瑟管理的防御部队，处理伊瑟内部的治安事件。;",
+    "notes": "使用\"Bureau\"表示这是官方机构,比\"Department\"更正式。整体名称传达了权威感。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "熔断警备署": {
+    "term": "熔断警备署",
+    "translation": "Meltdown Security Bureau",
+    "category": "",
+    "context": "虚拟政府E.O.S.设置的执法部门，专门处理熔断相关的各项事件。;",
+    "notes": "\"Meltdown\"既保留了\"熔断\"的字面含义,又在IT领域有特殊含义,很适合这个设定",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "熔断警察": {
+    "term": "熔断警察",
+    "translation": "Meltdown Officer",
+    "category": "",
+    "context": "服役于熔断警署的执法人员，专门处理熔断相关的各项事件。;",
+    "notes": "没用\"Police\"而用\"Officer\",显得更专业也更符合执法人员的身份。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "梅因斯基金会": {
+    "term": "梅因斯基金会",
+    "translation": "Mains Foundation",
+    "category": "",
+    "context": "组织名，由梅因斯（人名）创立的基金会。;",
+    "notes": "人名音译,需要确认标准英文名称。保持基金会类机构命名的一致性。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "伊里森监狱": {
+    "term": "伊里森监狱",
+    "translation": "Elyson Prison",
+    "category": "",
+    "context": "地名/组织名。原为E.O.S.创造的特殊监牢，后被RCS攻占沦陷。;",
+    "notes": "采用英文化的拼写方式,让这个设施名称看起来更国际化。保留了原音的同时增加了可读性。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "踯躅街": {
+    "term": "踯躅街",
+    "translation": "Hesitation Street",
+    "category": "",
+    "context": "组织名，异格者中彻底的中立派，流亡者的聚集地，名字取义“踯躅不前”。;",
+    "notes": "巧妙转译了\"踯躅不前\"的含义,用\"Hesitation\"传达犹豫不决的状态,很好地保留了原意的意境。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "血色之翼": {
+    "term": "血色之翼",
+    "translation": "Crimson Wings",
+    "category": "",
+    "context": "组织名，伊瑟世界的激进派异格者组织，憎恨人类，目标是清除所有外来人类。;",
+    "notes": "\"Crimson\"比普通的\"Blood\"或\"Bloody\"更优雅,同时依然保留了血腥的暗示。但如果激进派真的很激进。。那还是用bloody吧",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "蜃海集团": {
+    "term": "蜃海集团",
+    "translation": "Mirage Ocean Group",
+    "category": "",
+    "context": "组织名，星跃娱乐的前身，是伊瑟最大的偶像娱乐文化集团，总部位于东部的蜃都。;",
+    "notes": "\"Mirage\"完美对应了\"蜃\"的意境,暗示了虚幻与现实的交织。保留\"Ocean\"让名字更有气势,也呼应了集团的规模。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "星跃娱乐": {
+    "term": "星跃娱乐",
+    "translation": "Starleap Entertainment",
+    "category": "",
+    "context": "组织名，表面上依旧是偶像娱乐文化公司，暗地里在支持RCS的活动。;",
+    "notes": "\"Starleap\"是对\"星跃\"的直译,但听起来很有未来感,很适合一家娱乐公司的名字。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "黄金边界": {
+    "term": "黄金边界",
+    "translation": "Golden Frontier",
+    "category": "",
+    "context": "组织名，认为伊瑟世界才是未来，人类需要接受新的生命形态，积极应对改变，追求全新的进化与成长。;",
+    "notes": "用\"Frontier\"而不是\"Border\"或\"Boundary\",因为它暗示了开拓和未来的可能性,很符合这个组织的理念。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "伊瑟虚拟政府": {
+    "term": "伊瑟虚拟政府",
+    "translation": "Ether Virtual Government",
+    "category": "",
+    "context": "组织名，进入伊瑟的人类所组建的联合政府，最高的行政管理机构。;",
+    "notes": "保持了\"Ether\"的一致性翻译,整体名称清晰表达其性质和管辖范围。简称可用EVG。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "拯救者同盟": {
+    "term": "拯救者同盟",
+    "translation": "Savior Alliance",
+    "category": "",
+    "context": "组织名，拯救者同盟，潜伏在伊瑟世界内部的反对派组织，目标是摧毁伊瑟，让人类重回现实世界。;",
+    "notes": "简单直接的翻译,但效果很好。\"Savior\"比\"Rescuer\"更有理想主义色彩,很符合组织性质。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "麦琪": {
+    "term": "麦琪",
+    "translation": "Maggie",
+    "category": "",
+    "context": "角色名，游戏内为玩家的伙伴，新手任务时会辅助玩家指引玩家操作，具体形象可参考右侧图片",
+    "notes": "选择这个常见的英文名，很适合新手引导角色。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "恰克": {
+    "term": "恰克",
+    "translation": "Chaku",
+    "category": "",
+    "context": "角色名，游戏内为玩家的伙伴，形象是一个小机器人（类似原神的派蒙），会发出ChakuChaku的声音，具体形象可参考右侧图片",
+    "notes": "保留原声音",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "赫尔利亚": {
+    "term": "赫尔利亚",
+    "translation": "Helia",
+    "category": "",
+    "context": "角色名",
+    "notes": "采用西方神话风格的拼写，去掉多余的字母使其更加优雅。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "弗莱利森": {
+    "term": "弗莱利森",
+    "translation": "Freylisen",
+    "category": "",
+    "context": "角色名",
+    "notes": "音译名，德语风格拼写",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "贝鲁托尔": {
+    "term": "贝鲁托尔",
+    "translation": "Bertor",
+    "category": "",
+    "context": "角色名",
+    "notes": "音译名，简化为更容易读写的形式，保持了原有的力量感。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "米迦勒": {
+    "term": "米迦勒",
+    "translation": "Michael",
+    "category": "",
+    "context": "角色名",
+    "notes": "标准的圣经天使名称拼写",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "莉娜": {
+    "term": "莉娜",
+    "translation": "Lina",
+    "category": "",
+    "context": "角色名",
+    "notes": "通用的英文名，发音和原名完全一致",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "阿西莉娅": {
+    "term": "阿西莉娅",
+    "translation": "Asilia",
+    "category": "",
+    "context": "角色名",
+    "notes": "音译名，加入\"i\"使其更符合英文发音习惯",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "那由多": {
+    "term": "那由多",
+    "translation": "Nayuta",
+    "category": "",
+    "context": "角色名",
+    "notes": "保留罗马音",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "克莱西德": {
+    "term": "克莱西德",
+    "translation": "Cleside",
+    "category": "",
+    "context": "角色名",
+    "notes": "音译名，使用\"-side\"结尾更符合英文名字特征。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "莱伯茨·菲尔": {
+    "term": "莱伯茨·菲尔",
+    "translation": "Leibniz Feil",
+    "category": "",
+    "context": "角色名",
+    "notes": "姓氏保持德语拼写，和上面莱伯茨生命统一",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "罗哈姆特": {
+    "term": "罗哈姆特",
+    "translation": "Bahamut",
+    "category": "",
+    "context": "角色名",
+    "notes": "采用广为人知的神话生物标准拼写。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "蒂法丝": {
+    "term": "蒂法丝",
+    "translation": "Tifas",
+    "category": "",
+    "context": "角色名",
+    "notes": "音译",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "蒂芙尼": {
+    "term": "蒂芙尼",
+    "translation": "Tiffany",
+    "category": "",
+    "context": "角色名",
+    "notes": "常见英文名",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "特里西娅": {
+    "term": "特里西娅",
+    "translation": "Tricia",
+    "category": "",
+    "context": "角色名",
+    "notes": "采用英文名的标准拼写，发音相近且常见。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "迪恩士": {
+    "term": "迪恩士",
+    "translation": "Dennis",
+    "category": "",
+    "context": "角色名",
+    "notes": "采用对应的标准英文名拼写。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "康坦士": {
+    "term": "康坦士",
+    "translation": "Constance",
+    "category": "",
+    "context": "角色名",
+    "notes": "英文标准拼写。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "利维娅": {
+    "term": "利维娅",
+    "translation": "Livia",
+    "category": "",
+    "context": "角色名",
+    "notes": "采用古罗马名字的标准拼写",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "鲁伯特": {
+    "term": "鲁伯特",
+    "translation": "Rupert",
+    "category": "",
+    "context": "角色名",
+    "notes": "采用标准英文名拼写，发音和原名一致。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "基利翁": {
+    "term": "基利翁",
+    "translation": "Kilion",
+    "category": "",
+    "context": "角色名",
+    "notes": "标准拼写",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "罗睺": {
+    "term": "罗睺",
+    "translation": "Rahu",
+    "category": "",
+    "context": "角色名",
+    "notes": "查了一下，选择用梵文音译的标准拼写，保持东方神秘感。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "伦芙纳": {
+    "term": "伦芙纳",
+    "translation": "Louvenia",
+    "category": "",
+    "context": "角色名",
+    "notes": "采用古典一点的拼写",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "彼安汀": {
+    "term": "彼安汀",
+    "translation": "Piantine",
+    "category": "",
+    "context": "角色名",
+    "notes": "唯一一个查到背景信息的角色，所以采用\"-ine\"结尾的拼写，呈现出优雅高贵的气质，适合其副署长的身份。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "石破天惊": {
+    "term": "石破天惊",
+    "translation": "Earth-Shattering Strike",
+    "category": "",
+    "context": "技能名",
+    "notes": NaN,
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "岩碎": {
+    "term": "岩碎",
+    "translation": "Rock Breaker",
+    "category": "",
+    "context": "技能名",
+    "notes": "\"Breaker\"这个词在游戏技能中很常见,玩家容易理解。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "鬼舞者": {
+    "term": "鬼舞者",
+    "translation": "Demon Dancer",
+    "category": "",
+    "context": "技能名",
+    "notes": "字面翻译但效果很好,\"Demon Dancer\"有点暗示了技能的诡异感",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "涡轮陀螺": {
+    "term": "涡轮陀螺",
+    "translation": "Turbo Spiral",
+    "category": "",
+    "context": "技能名",
+    "notes": "\"Turbo\"传达了高速旋转的感觉,\"Spiral\"则比\"Gyro\"更形象生动。整体名字朗朗上口。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "黑水": {
+    "term": "黑水",
+    "translation": "Dark Tide",
+    "category": "",
+    "context": "技能名",
+    "notes": "没有直译为\"Black Water\",而是用\"Dark Tide\"更有气势和神秘感,也更符合技能的风格。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "冥波诅咒": {
+    "term": "冥波诅咒",
+    "translation": "Stygian Curse",
+    "category": "",
+    "context": "技能名",
+    "notes": "用\"Stygian\"(冥河的)代替直白的\"Nether\",显得更有文学性和神秘感。与\"Curse\"结合很有气势,暗示了技能的黑暗属性。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "冥渡暗浪": {
+    "term": "冥渡暗浪",
+    "translation": "Nether Surge",
+    "category": "",
+    "context": "技能名",
+    "notes": "虽然原文有\"浪\"字,但用\"Surge\"代替\"Wave\",更能体现技能的冲击力。整体名字简洁有力。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "抑制药剂": {
+    "term": "抑制药剂",
+    "translation": "Suppression Potion",
+    "category": "",
+    "context": "技能名",
+    "notes": "保持了药剂类物品命名的一致性。\"Suppression\"比\"Inhibition\"更常用,玩家更容易理解。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "愈合药剂": {
+    "term": "愈合药剂",
+    "translation": "Healing Potion",
+    "category": "",
+    "context": "技能名",
+    "notes": "常用术语",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "兴奋药剂": {
+    "term": "兴奋药剂",
+    "translation": "Stimulant Potion",
+    "category": "",
+    "context": "技能名",
+    "notes": "选择\"Stimulant\"而不是\"Excitement\",显得更专业也更符合药剂的功能。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "乱击": {
+    "term": "乱击",
+    "translation": "Chaos Strike",
+    "category": "",
+    "context": "技能名",
+    "notes": "\"Chaos\"传达了招式的混乱性,\"Strike\"则表现出攻击性。整体简单好记,也符合技能的特点。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "甩尾": {
+    "term": "甩尾",
+    "translation": "Tail Whip",
+    "category": "",
+    "context": "技能名",
+    "notes": "采用了格斗游戏中常见的技能命名方式,简单直接且形象。很容易让玩家理解技能动作。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "咆哮": {
+    "term": "咆哮",
+    "translation": "Savage Roar",
+    "category": "",
+    "context": "技能名",
+    "notes": "加入\"Savage\"让这个技能名更有气势,而不是简单地用\"Roar\"。考虑超框问题再说吧，roar也行。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "一连目": {
+    "term": "一连目",
+    "translation": "Evil Eye",
+    "category": "",
+    "context": "技能名",
+    "notes": "用西方常见的\"Evil Eye\"概念来翻译,让西方玩家容易理解。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "罪眸": {
+    "term": "罪眸",
+    "translation": "Sin Gaze",
+    "category": "",
+    "context": "技能名",
+    "notes": "\"Sin\"配上\"Gaze\"既保留了原文的意境,又增添了一种神秘的威慑力。避免与\"Evil Eye\"过于相似。",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "未来视": {
+    "term": "未来视",
+    "translation": "Future Sight",
+    "category": "",
+    "context": "技能名",
+    "notes": "采用了在游戏中常见的超能力名称,简单直接且玩家熟悉。暗示了预知能力的本质。简单的话就考虑直接Foresight",
+    "created_at": "2024-11-05 22:16:48"
+  },
+  "猿王": {
+    "term": "猿王",
+    "translation": "Monkey King",
+    "category": "",
+    "context": "技能名",
+    "notes": "保留了\"Monkey King\"这个在东西方文化中都熟知的名字。",
+    "created_at": "2024-11-05 22:16:48"
+  }
+}
