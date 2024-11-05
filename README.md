@@ -1,4 +1,4 @@
-# Terminology Manager (LocGlossaryManager)
+# Glossary Manager (LocGlossaryManager)
 
 A desktop application for managing translation terminology.
 
