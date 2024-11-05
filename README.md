@@ -1,53 +1,53 @@
-# 术语管理器 (LocGlossaryManager)
+# Terminology Manager (LocGlossaryManager)
 
-一个方便译者管理翻译术语的桌面应用程序。
+A desktop application for managing translation terminology.
 
-## ✨ 功能特点
+## ✨ Features
 
-- 📝 术语的添加、编辑、删除
-- 📊 支持导入/导出 Excel 和 CSV
-- 🔍 术语查重和一致性检查
-- 📂 支持分类管理
-- 📈 实时统计功能
-- 🔄 右键快捷菜单操作
+- 📝 Add, edit, and delete terminology
+- 📊 Import/Export Excel and CSV
+- 🔍 Duplicate check and consistency verification
+- 📂 Category management
+- 📈 Real-time statistics
+- 🔄 Quick access context menu
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
-### 安装依赖
+### Dependencies
 
 ```bash
 pip install pandas
 ```
 
-### 运行程序
+### Run
 
 ```bash
 python GlossaryManagerV1.1.py
 ```
 
-## 💡 使用说明
+## 💡 Usage
 
-1. **添加术语**
-   - 点击"添加术语"按钮
-   - 或使用快捷键 `Ctrl+N`
+1. **Add Terms**
+   - Click "Add Term" button
+   - Or use shortcut `Ctrl+N`
 
-2. **导入术语**
-   - 支持 Excel(.xlsx) 和 CSV 格式
-   - 自动识别列标题映射
+2. **Import Terms**
+   - Support Excel(.xlsx) and CSV formats
+   - Automatic column header mapping
 
-3. **术语管理**
-   - 双击术语可编辑
-   - 右键菜单支持快速操作
-   - 支持术语分类和备注
+3. **Term Management**
+   - Double click to edit terms
+   - Right-click menu for quick operations
+   - Support term categorization and notes
 
 ## 📄 License
 
-MIT License - 详见 [LICENSE](LICENSE) 文件
+MIT License - See [LICENSE](LICENSE) file
 
-## 🤝 贡献指南
+## 🤝 Contributing
 
-欢迎提交 Issue 和 Pull Request！
+Issues and Pull Requests are welcome!
 
-## ⬇️ 下载
+## ⬇️ Download
 
-[点击此处下载最新版本](https://github.com/PeRoAixleft/LocGlossaryManager/releases/latest)
+[Download Latest Version](https://github.com/PeRoAixleft/LocGlossaryManager/releases/latest)
